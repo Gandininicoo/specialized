@@ -1,0 +1,11 @@
+%navBar{
+    display: flex;
+    justify-content: center;
+    ul{
+        display: flex;
+        flex-wrap: wrap;
+        li{
+            display: inline-block;
+        }
+    }
+}
